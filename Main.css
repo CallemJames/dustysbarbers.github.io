@@ -1,0 +1,55 @@
+main.css
+
+body {
+	* {box-sizing: border-box}
+	background: royalblue;
+	font-family: sans-serif; margin:0}
+.mySlides {display: none}
+img {vertical-align: middle;
+	
+}
+
+header {
+	background:red;
+	color: cornflowerblue;
+	padding: 10px;
+	display:inline;
+}
+
+h1{background:#E7E7E7;
+	color: royalblue;
+	padding: 6px;
+	margin: 0px;
+}
+
+h2 {background:#E7E7E7;
+	color: royalblue;
+	padding: 6px;
+}
+
+nav ul {margin: 0;
+	display: inline;
+}
+
+nav ul li {
+	background:#E7E7E7;
+	color: royalblue;
+	display: inline;
+	list-style-type: none;
+	margin:  1px;
+	padding: 3px 6px;
+	border-radius: 2px;
+}
+nav ul li a {
+	color: royalblue;
+	margin: 1px;
+	padding: 3px 6px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 1;
+}
+
+ "Hoefler Text", "Liberation Serif", "Times New Roman", "serif";
